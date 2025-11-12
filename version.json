@@ -1,17 +1,8 @@
 {
   "sponsors": [
     {
-      "username": "example_user1"
-    },
-    {
-      "username": "example_user2",
-      "amount": 500,
-      "date": "2025-01-29"
-    },
-    {
-      "username": "example_user3",
+      "username": "mishkaSao",
       "amount": 1000,
-      "date": "2025-01-28"
     }
   ]
 }
