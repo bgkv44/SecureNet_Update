@@ -1,3 +1,19 @@
 {
-  "version": "V3.0.0.0.8"
+  "version": "V3.0.0.0.8",
+  "sponsors": [
+    {
+      "username": "example_user1"
+    },
+    {
+      "username": "example_user2",
+      "amount": 500,
+      "date": "2025-01-29"
+    },
+    {
+      "username": "example_user3",
+      "amount": 1000,
+      "date": "2025-01-28"
+    }
+  ]
 }
+
